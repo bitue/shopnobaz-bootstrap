@@ -1,0 +1,22 @@
+#hero {
+    background-image: url("img/tim-mossholder-WE_Kv_ZB1l0-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#course {
+    padding-bottom: 20px;
+}
+
+/* #carosel{
+    position: absolute;
+} */
+
+#shopnobaz h1, #shopnobaz p {
+    text-shadow: 4px 4px 10px gray;
+}
+
+html {
+    scroll-behavior: smooth;
+}
